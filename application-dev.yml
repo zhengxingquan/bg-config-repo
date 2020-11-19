@@ -100,7 +100,7 @@ hystrix:
             timeoutInMilliseconds: 20000
 
 
-paascloud:
+bg-cloud:
   auth:
     jwt:
       expiredRemainMinutes: 20
